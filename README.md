@@ -1,4 +1,7 @@
 # Pseudocode
+
+_Major project for Advanced Java_
+
 Project Name: StudentMate
 
 Team Alias Name: Pseudocode
