@@ -2,9 +2,11 @@
 Project Name: StudentMate
 
 Team Alias Name: Pseudocode
+
 Group Member: Amit Mittal
 
-About StudentMate
+**About StudentMate**
+
 A student management system (also known as a student information system or SIS) helps a student to manage information, documents, and scheduling. It is designed to serve all of a student’s data management needs.
 
 This system gives the power to upload and save a range of file types — documents, photos,— to the digital platform, or can serve as a backup solution.
