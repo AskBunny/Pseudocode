@@ -1,5 +1,6 @@
 # Pseudocode
-TProject Name: StudentMate
+Project Name: StudentMate
+
 Team Alias Name: Pseudocode
 Group Member: Amit Mittal
 
